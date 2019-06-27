@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">bola</string>
+    <string name="last_match" translatable="false">pertandingan terakhir</string>
+    <string name="next_match" translatable="false">pertandingan selanjutnya</string>
+    <string name="favorite_match">pertandingan favorit</string>
+</resources>
